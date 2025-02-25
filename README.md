@@ -5,9 +5,6 @@ This **Excel-based dashboard** provides an in-depth analysis of **hospital emerg
 ## Acknowledgments
 This project was created by the data set provided and with guidance from [**SATISH DHAWALE YOUTUBE CHANNEL**](https://surl.li/paosrm) Check out their channel for more learning and insight.
 
-## Dashboard Preview  
-[Hospital Emergency Room Dashboard](./Hospital_Emergency_Room_Dashboard.png)  
-
 ## Key Features  
 - **Patient Volume Analysis** – Total number of patients attended.  
 - **Wait Time Insights** – Average patient wait time for emergency services.  
